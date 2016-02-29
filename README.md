@@ -1,1 +1,1 @@
-# R_M_Project
+# Coursera - Regression Models Project
